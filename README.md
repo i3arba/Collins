@@ -16,6 +16,10 @@ https://book.getfoundry.sh/
 ## Usage
 
 ```shell
+$ cd foundry-f23
+```
+
+```shell
 $ cd foundry-simple-storage-f23
 ```
 
